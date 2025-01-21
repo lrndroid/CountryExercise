@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Country Exercise</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_name">Name</string>
+    <string name="title_capital">Capital</string>
+    <string name="title_region">Region</string>
+    <string name="title_code">Code</string>
+    <string name="error_message">Error loading data. Please try again later.</string>
+</resources>
